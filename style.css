@@ -1,0 +1,19 @@
+body{
+    background-image: url("Untitled design.png");
+    background-repeat: no-repeat;
+    font-family: 'Comfortaa', cursive;
+}
+
+#heading{
+    font-family: 'Neonderthaw', cursive;
+    font-size: 100px;
+}
+
+#b1{
+    width: 10%;
+    height: 50px;
+    color:white;
+    background-color:brown;
+    border: transparent;
+
+}
